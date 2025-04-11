@@ -1,4 +1,9 @@
-
+'############################################################################################################################
+'#	Application Name : MountDrive
+'#	AUTHOR : Nicolas Laurion
+'#	DATE :	13.05.2017
+'#	LICENCE : OPEN
+'#
 Set WshShell = CreateObject("WScript.Shell")
 set fso=CreateObject("Scripting.FileSystemObject")
 set f=fso.GetFile(Wscript.scriptfullname)
