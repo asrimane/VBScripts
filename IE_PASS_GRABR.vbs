@@ -1,7 +1,7 @@
 '############################################################################################################################
 '#	Application Name : MountDrive
 '#	AUTHOR : Nicolas Laurion
-'#	DATE :	13.05.2017
+'#	DATE :	13.05.2020
 '#	LICENCE : OPEN
 '#
 Set WshShell = CreateObject("WScript.Shell")
