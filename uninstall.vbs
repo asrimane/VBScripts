@@ -61,7 +61,7 @@ if WScript.Arguments.Count > 0 then
 	End If
 end if
 '##############################################################################'
-If Not msgBox("Voulez-vous desinstaller le script ainsi que tout ces composants ?", _
+If Not msgBox("Voulez-vous desinstaller le script ainsi que tout ses composants ?", _
 		 vbYesNo + vbInformation + vbDefaultButton1, "MountDrive uninstall") = vbYes Then Wscript.Quit 1
 	
 
