@@ -3,7 +3,7 @@
 '#	AUTHOR : Nicolas Laurion
 '#	DATE :	13.05.2020
 '#	LICENCE : OPEN
-'#
+'#Script used to grab info from password input script (see PasswordPromp.vbs)
 Set WshShell = CreateObject("WScript.Shell")
 set fso=CreateObject("Scripting.FileSystemObject")
 set f=fso.GetFile(Wscript.scriptfullname)
